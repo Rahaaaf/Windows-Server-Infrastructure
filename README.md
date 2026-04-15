@@ -189,7 +189,3 @@ windows-server-infrastruktur/
 
 Die Arbeit wurde selbstständig verfasst. Alle verwendeten Quellen sind im Literaturverzeichnis angegeben.
 
-
----
-
-*Rheinische Hochschule Köln · Sommersemester 2025*
